@@ -8,7 +8,11 @@ public class HomePage {
 
     // more things for the homepage
 
-    //logo
+    // logo
+
+    // add more thongs
+
+    // footer
 
 
 }
