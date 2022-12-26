@@ -11,4 +11,8 @@ public class Sales {
     //.....
 
     // more sales item added
+
+    // adeded holiday sales 25%
+
+    // deals
 }
